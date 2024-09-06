@@ -1,8 +1,6 @@
 # Modified by PmaFynn
 
-# Original:
-
-<h1 align="center">TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection</h1>
+<h1 align="center">Original: TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection</h1>
 
 <p align="center">The ultimate collection of scripts for YouTube-DL.</p>
 
