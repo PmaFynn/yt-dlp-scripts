@@ -1,5 +1,10 @@
 # Modified by PmaFynn
 
+## Adjusted:
+- audio archive output file type -> m4a to allow embedding of thumbnails
+- more simple folder structure
+
+
 <h1 align="center">Original: TheFrenchGhosty's Ultimate YouTube-DL Scripts Collection</h1>
 
 <p align="center">The ultimate collection of scripts for YouTube-DL.</p>
